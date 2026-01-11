@@ -25,7 +25,7 @@ The site is built using HTML5, CSS3, and JavaScript with a focus on:
 | JavaScript | Dynamic interactivity (optional) |
 | Font Awesome | Social media and UI icons |
 | Git | Version control |
-| Vercel/Render | Static hosting platforms |
+| Vercel | Static hosting platforms |
 
 ## Installation
 
