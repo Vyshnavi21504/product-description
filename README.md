@@ -39,7 +39,8 @@ The site is built using HTML5, CSS3, and JavaScript with a focus on:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/maska-chatpata.git
+git clone https://github.com/Vyshnavi21504/product-description.git
+
 ```
 
 2. **Navigate to the project directory**
@@ -49,7 +50,7 @@ cd maska-chatpata
 
 3. **Open in browser**
 ```bash
-# Simply open index.html in your browser
+Simply open index.html in your browser
 
 ```
 
